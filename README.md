@@ -1,6 +1,4 @@
-# example-app
+# EPS Watchdog Kick
 
-Example for a simple App to interact with a service/payload.
+Kick the eps i2c watchdog every 1 mins
 
-This example app pings the Example Service, performs a Telemetry request, 
-overwrites some data in the service and performs a second Telemetry request to verify the data was successfully updated.
